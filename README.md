@@ -10,3 +10,5 @@ In the article the author uses react in a way that lends itself to errors so I f
 This comment from the medium article mentions why it is problematic and running the author's code with any modification is enough for bugs to be unavoidable
 
 ![commentFromMedium](https://i.imgur.com/sb9a5pd.png)
+
+Side note: the author of that post decided to block me from their medium after I posted this repository in the comments  ¯\_(ツ)_/¯
