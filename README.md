@@ -1,4 +1,4 @@
-# Socketio Example
+# Socketio Example with Namespaces
 Socketio with react and namespaces
 
 This was inspired by the following article:
