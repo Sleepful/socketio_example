@@ -11,4 +11,4 @@ This comment from the medium article mentions why the implementation from the ar
 
 ![commentFromMedium](https://i.imgur.com/sb9a5pd.png)
 
-Side note: the author of that post decided to block me from their medium after I posted this repository in the comments  ¯\_(ツ)_/¯
+Side note: the author of that blog post decided to block me from their medium after I posted this repository in the comments  ¯\_(ツ)_/¯
