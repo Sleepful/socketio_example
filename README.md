@@ -1,6 +1,26 @@
 # Socketio Example with Namespaces
 Socketio with react and namespaces
 
+To run it just clone the repo and run the client and the server at the same time.
+
+For the server:
+
+```
+cd socketio-server
+npm install
+npm run
+```
+
+For the client:
+```
+cd socketio-client
+npm install
+npm run
+```
+Now go to http://localhost:3000/ on multiple tabs, and see them share the same color if they are in the same room, move to a different to share the color with the clients connected to that room.
+
+---
+
 This was inspired by the following article:
 
 [Real Time Web App | React.js + Express + Socket.io](https://codeburst.io/isomorphic-web-app-react-js-express-socket-io-e2f03a469cd3) [(archive.is)](http://archive.is/Y0eMZ)
