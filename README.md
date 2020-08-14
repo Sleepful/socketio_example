@@ -1,5 +1,4 @@
 # Socketio Example with Namespaces
-Socketio with react and namespaces
 
 This project showcases real-time data sharing. It's a ReactJS front-end with a NodeJs back-end to manage the connections. The app lets separate clients connect with each other and propagates the changes that one client does to the other clients. The connections are divided into different groups, so the connections are shared only if two or more clients connect to the same group.
 
