@@ -17,7 +17,7 @@ cd socketio-client
 npm install
 npm run
 ```
-Now go to http://localhost:3000/ on multiple tabs, and see them share the same color if they are in the same room, move to a different to share the color with the clients connected to that room.
+Now go to http://localhost:3000/ on multiple tabs, and see them share the same color if they are in the same room, move to a different room to share the color with the clients connected to that room.
 
 ---
 
